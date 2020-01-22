@@ -41,7 +41,7 @@ from tqdm import tqdm
 
 
 class KittiConverter:
-    def __init__(self, store_dir: str = "/data/datasets/lyft2kitti/"):
+    def __init__(self, store_dir: str = "/data/datasets/lyft2kitti/testing/"):
         """
 
         Args:
